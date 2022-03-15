@@ -1,4 +1,4 @@
-# udacity-2
+# lesson 2 part 1
 
 🌟Databinding is not mandatory for simple apps, it is a recommended pattern that makes your code simpler and easier to read.
 
