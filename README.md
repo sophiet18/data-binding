@@ -10,4 +10,4 @@
 
 📌findviewbyID traverses the view hierarchy at runtime to find a view every time it's called IN OTHER WORDS - slows down the app if this is used instead of view binding ~
 
-bonus discovery: I cannot spell binding properly without autocorrection... yay me
+😂bonus discovery: I cannot spell binding properly without autocorrection... yay me
