@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="sophie_tai">Sophie Tai</string>
+    <string name="bio">Hi, my name is Sophie.
+        \n\n I love sports and outdoor activities
+        \n\n my favourite sports are swimming and ice hockey. They are both very refreshing.
+        \n Fun fact is that one of my favourite aquatic animals and my favourite hockey team have the same name
+        \n\n I also love aquatic animals. Penguins and dolphins are examples.
+        \n Penguins are very chubby and remind me that it\'s okay to fall down as long as you stand up again.
+        \n Dolphin are very cheerful animals, watching them makes me happy.
+        \n It would be great if I could swim with dolphins and hug a penguin one day
+        \n\n Once when I was in the Vancovuer Aquarium I almost adopted a penguin because it was so adorable
+        \n\n I love to ice skate as much as I love swimming and any other outdoor activity or team sport.
+        \n\n I would love to be on your team! \n\n </string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="what_is_your_nickname">What Is Your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
